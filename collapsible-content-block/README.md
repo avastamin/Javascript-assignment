@@ -1,0 +1,25 @@
+# 2. Make a content block collapsible on click
+Run from [here](collapsible-content-block.surge.sh) 
+
+Please enhance the following HTML markup with some Java Script and CSS magic so that the content of the `collapsible__content div` is only displayed with a click on the `collapsible__toggle button`. Another click on the button shall hide the content again.
+Please use Java Script only where it can't be avoided and show us some nice animations.
+
+```html
+<div class="collapsible">
+    <button class="collapsible__toggle">
+        Show me the content
+    </button>
+    <div class="collapsible__content">
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius ante id mattis tempor. Suspendisse eu nisi dictum, venenatis diam vel, faucibus magna. Sed non purus nibh. Vivamus ultricies non tellus nec pharetra. Proin sollicitudin tincidunt egestas. Sed vitae elementum risus. Sed ac ultrices nisl, eu egestas augue. Donec vel tortor eu justo laoreet eleifend. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed venenatis diam non sapien vulputate, sed porttitor nunc egestas. Ut placerat, arcu ut sodales tincidunt, libero ipsum viverra odio, et suscipit leo felis a velit. Quisque sed metus interdum, lacinia massa vitae, ultrices nulla. Aenean finibus tincidunt lobortis. Quisque et mauris nec ex luctus cursus. Phasellus sem tortor, fermentum quis urna ac, suscipit scelerisque mauris.
+        </p>
+        <p>
+            Suspendisse potenti. Nulla vestibulum imperdiet commodo. Ut id tortor pulvinar, sodales lorem at, volutpat neque. Quisque tempor arcu arcu. Vivamus porttitor sit amet metus ultrices ullamcorper. Nulla rutrum cursus aliquet. Praesent sem quam, imperdiet eu mi non, aliquam sagittis purus. Sed interdum non libero nec placerat. Maecenas nec blandit ex, vel eleifend ligula. Aliquam sem massa, congue non massa sit amet, porttitor sollicitudin mauris. Integer lobortis laoreet justo id luctus. Aliquam quis commodo mi, sit amet accumsan ante. Cras in vulputate nisl.
+        </p>
+    </div>
+</div>
+```
+
+Here is a Gif with expected animation:
+
+![output](https://cloud.githubusercontent.com/assets/812240/23119300/f25ef3a6-f757-11e6-83f1-8971e7433363.gif)
