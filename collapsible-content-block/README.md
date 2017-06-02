@@ -1,5 +1,5 @@
 # 2. Make a content block collapsible on click
-Run from [here](http://registration-form.surge.sh/) 
+Run from [here](http://collapsible-content-block.surge.sh/) 
 
 Please enhance the following HTML markup with some Java Script and CSS magic so that the content of the `collapsible__content div` is only displayed with a click on the `collapsible__toggle button`. Another click on the button shall hide the content again.
 Please use Java Script only where it can't be avoided and show us some nice animations.
