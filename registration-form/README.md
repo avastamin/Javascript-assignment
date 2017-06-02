@@ -2,7 +2,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app)
 
 ## DEMO
-[from here](http://registration-form.surge.sh/)
+[Demo here](http://registration-form.surge.sh/)
 
 ## Run the app:
 1) Clone the repo.
